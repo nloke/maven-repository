@@ -12,7 +12,7 @@
 		<gwtVersion>2.5.1-rc1</gwtVersion>
 		<appEngineVersion>1.7.5</appEngineVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<repository.directory>/Users/nloke/Projects/maven-repository</repository.directory>
+		<repository.directory>/maven_repo/deploy/github</repository.directory>
 		<github.global.server>github</github.global.server>
 	</properties>
 
